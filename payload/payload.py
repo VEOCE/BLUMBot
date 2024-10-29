@@ -7,3 +7,4 @@ async def get_payload(gameId, points):
     output, _ = await process.communicate()
     payload = output.decode('utf-8').strip()
     return json.dumps({'payload': payload})
+
