@@ -20,3 +20,4 @@ const payload = Blum.getPayload(
     }
 );
 console.log(payload);
+
