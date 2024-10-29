@@ -72,3 +72,4 @@
 200 OK
 200 {"gameId":"7f92de2c-127f-44a6-b426-4105e42dfef4","assets":{"BOMB":{"probability":"0.03","perClick":"1"},"CLOVER":{"probability":"0.95","perClick":"1"},"FREEZE":{"probability":"0.02","perClick":"1"}}}
 200 {"eligible":false}
+
